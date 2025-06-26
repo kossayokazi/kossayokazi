@@ -27,6 +27,8 @@
 </div>
 
 ###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7E19B3&width=435&lines=Welcome+to+Okazi+Kossay's+profile;Nice+to+meet+you%F0%9F%91%8B" alt="Typing SVG" /></a>
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kossayokazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
