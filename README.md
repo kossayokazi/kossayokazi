@@ -27,7 +27,9 @@
 </div>
 
 ###
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7E19B3&width=435&lines=Welcome+to+Okazi+Kossay's+profile;Nice+to+meet+you%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 ###
 
 <div align="center">
