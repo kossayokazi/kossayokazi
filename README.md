@@ -43,7 +43,7 @@
 - 🎓 I’m a student specializing in **Information Systems Development**<br>
 - 🌱 I’m currently learning about **Artificial Intelligence** and **UI/UX design**<br>
 - 🤝 I love collaborating on real-world projects and learning from the community<br>
-  <p align="center >📫 How to reach me 👇</p> <br>
+  <div align="center ><p >📫 How to reach me 👇</p> <br></div>
   
 
 <div align="center">
