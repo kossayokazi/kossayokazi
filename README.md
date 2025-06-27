@@ -35,26 +35,28 @@
 </div>
 
 ### 👨‍💻 About Me
-<div align="center">
-  <p> Hi👋, I'm Okazi Kossay, full-stack web apps from Tunisia</p>
-</div>
-<div align="center">
-- 🛠️ I recently studying for a Bachelor's degree in Higher Institute of Technological Studies of Gafsa (ISETGf)<br>
-- 🎓 I’m a student specializing in **Information Systems Development**<br>
-- 🌱 I’m currently learning about **Artificial Intelligence** and **UI/UX design**<br>
-- 🤝 I love collaborating on real-world projects and learning from the community<br>
-  <div align="center ><p >📫 How to reach me 👇</p> <br></div>
-  
 
 <div align="center">
+  <p>Hi 👋, I'm Okazi Kossay, a full-stack web developer from Tunisia.</p>
+</div>
+
+<ul>
+  <li>🎓 I’m currently studying for a Bachelor's degree at the <strong>Higher Institute of Technological Studies of Gafsa (ISETGf)</strong></li>
+  <li>💻 Specializing in <strong>Information Systems Development</strong></li>
+  <li>🌱 Learning about <strong>Artificial Intelligence</strong> and <strong>UI/UX Design</strong></li>
+  <li>🤝 Passionate about collaborating on real-world projects and contributing to the tech community</li>
+</ul>
+
+<div align="center">
+  <p>📫 How to reach me 👇</p>
   <a href="https://www.linkedin.com/in/kossay-okazi-b92237301/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/>
   </a>
   <a href="mailto:kossayokkazi5678@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="Gmail"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail"/>
   </a>
 </div>
-</div>
+
 
 
 ###
