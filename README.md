@@ -38,6 +38,7 @@
 <div align="center">
   <p> Hi👋, I'm Okazi Kossay, full-stack web apps from Tunisia</p>
 </div>
+<div align="center">
 - 🛠️ I recently studying for a Bachelor's degree in Higher Institute of Technological Studies of Gafsa (ISETGf)
 - 🎓 I’m a student specializing in **Information Systems Development**
 - 🌱 I’m currently learning about **Artificial Intelligence** and **UI/UX design**
@@ -49,6 +50,7 @@
   <a href="mailto:kossayokkazi5678@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="Gmail"/>
   </a>
+</div>
 </div>
 
 
