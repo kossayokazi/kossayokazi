@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kossay Okazi</h2>
+<h2 align="left">Hi 👋! My name's Kossay Okazi</h2>
 
 ###
 
