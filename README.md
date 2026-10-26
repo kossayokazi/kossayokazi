@@ -39,7 +39,7 @@
 <div align="center">
   <p>Hi 👋, I'm Okazi Kossay, a full-stack web developer from Tunisia.</p>
 </div>
-<H3> Junior Full-Stack Developer | Software Engineering | Exploring Data Engineering & AI </H3>
+<H3> Full-Stack Developer | Software Engineering | Exploring Data Engineering & AI </H3>
 
 <ul>
   <li>🎓 Currently pursuing a Master's degree in <strong>Development of Computer Systems and Networks (DSIR)</strong> at <strong>ISET Sfax</strong></li>
